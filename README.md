@@ -62,8 +62,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=badi763&theme=tokyonight&hide_border=true&border_radius=10)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=badi763&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=badi763&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&cache_seconds=1800)
 </div>
 
 ---
