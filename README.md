@@ -23,6 +23,9 @@
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
@@ -33,9 +36,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=badi763&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badi763&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=" /></p>
 
 ## 🐍 Animation Snake des commits
 <picture>
