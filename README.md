@@ -1,24 +1,21 @@
-# 👋 Salut, moi c'est Rayane Badi
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut,+je+suis+Rayane+Badi!+;Développeur+Web+&+DJ+passionné;Bienvenue+sur+mon+GitHub!&font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true" alt="Typing SVG" />
+</p>
 
-🎓 Étudiant en développement web  
-💻 Développeur Front-End / Web  
-🎧 DJ & passionné de musique  
-🌍 Maroc  
-
----
-
-## 🚀 About Me
-
-- 💻 Je travaille actuellement sur mon **portfolio web**
-- 📚 J'apprends **TypeScript et JavaScript avancé**
-- 🎧 Je fais aussi des **mix DJ**
-- 🌐 Portfolio : https://rayanebadi.fr
+<p align="center">
+  <a href="https://www.linkedin.com/in/rayane-badi-a926783a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rayanebadi2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://rayanebadi.fr"><img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge" /></a>
+</p>
 
 ---
 
-## 🌐 Socials
+## 💻 À propos de moi
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge)](https://rayanebadi.fr)
+- Développeur Front-End / Web  
+- DJ & passionné de musique  
+- En apprentissage de **TypeScript et JavaScript avancé**  
+- Portfolio : [rayanebadi.fr](https://rayanebadi.fr)
 
 ---
 
@@ -33,12 +30,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistiques GitHub
 
-![Rayane GitHub stats](https://github-readme-stats.vercel.app/api?username=badi763&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=badi763&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badi763&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badi763&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ N'hésite pas à regarder mes projets !
+## 🐍 Animation Snake des commits
+
+[![Snake animation](https://github.com/badi763/badi763/blob/output/github-contribution-grid-snake.svg)](https://github.com/badi763)
+
+---
+
+## 👀 Vues sur mon profil
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=badi763.badi763)
+
+---
+
+⭐ N'hésite pas à parcourir mes projets !
