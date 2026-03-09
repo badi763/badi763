@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Se lance toutes les 12h automatiquement
-  workflow_dispatch:         # Permet de lancer manuellement depuis GitHub
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
