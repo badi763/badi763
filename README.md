@@ -1,6 +1,6 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=200&section=header&text=Rayane%20Badi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full-Stack%20•%20En%20recherche%20de%20stage&descAlignY=55&descSize=18)
+  
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:7B2FFF,100:00F7FF&height=200&section=header&text=Rayane%20Badi&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Développeur%20Full-Stack%20•%20En%20recherche%20de%20stage&descAlignY=55&descSize=18)
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+👋+je+suis+Rayane+Badi!;Développeur+Full-Stack+Front+%26+Back+💻;En+recherche+de+stage+💼;Bienvenue+sur+mon+GitHub!&font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&width=600" />
 
@@ -12,7 +12,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FFF&height=2" />
 
 ## 💻 À propos de moi
 ```diff
@@ -22,7 +22,7 @@
 + 🎓 Disponible pour un stage dès maintenant !
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FFF&height=2" />
 
 ## 🛠 Tech Stack
 
@@ -54,7 +54,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FFF&height=2" />
 
 ## 📊 Statistiques GitHub
 
@@ -62,8 +62,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=badi763&theme=tokyonight&hide_border=true&border_radius=10)
 
----
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FFF&height=2" />
 ## 🐍 Animation Snake des commits
 
 <div align="center">
@@ -76,7 +75,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FFF&height=2" />
 
 ## 👀 Vues sur mon profil
 
