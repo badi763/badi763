@@ -5,8 +5,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rayane-badi-a926783a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rayanebadi2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://rayanebadi.fr"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" /></a>
-
+  <a href="https://rayanebadi.fr"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://soundcloud.com/badi77"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/🎓 Recherche de Stage-disponible-brightgreen?style=for-the-badge" />
 </p>
 
 ---
@@ -18,6 +19,21 @@
 - Portfolio : [rayanebadi.fr](https://rayanebadi.fr)
 
 ---
+## 🎓 Recherche de stage
+
+> Je suis actuellement à la recherche d'un **stage en développement web Front-End**.  
+> Motivé, curieux et passionné par le code et la création d'interfaces modernes.  
+> N'hésite pas à me contacter ! 📩
+
+## 🎵 Ma musique
+
+> DJ & producteur passionné — retrouve mes mix sur SoundCloud !
+
+<p align="center">
+  <a href="https://soundcloud.com/badi77">
+    <img src="https://img.shields.io/badge/🎧 Écouter mes mix-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+  </a>
+</p>
 
 ## 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
