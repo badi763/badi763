@@ -62,22 +62,6 @@
 
 ![Streak](https://streak-stats.demolab.com?user=badi763&theme=tokyonight&hide_border=true&border_radius=10)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=badi763&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-</div>
-<div align="center">
-
-![GitHub stats](https://github-readme-stats-git-master-gruvbox-themes.vercel.app/api?username=badi763&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
----
-
-## 🏆 Trophées
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=badi763&theme=nord&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/badi763)
-</div>
-
 ---
 
 ## 🐍 Animation Snake des commits
