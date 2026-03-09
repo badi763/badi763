@@ -11,7 +11,6 @@
 ---
 
 ## 💻 À propos de moi
-
 - Développeur Front-End / Web  
 - DJ & passionné de musique  
 - En apprentissage de **TypeScript et JavaScript avancé**  
@@ -20,7 +19,6 @@
 ---
 
 ## 🛠 Tech Stack
-
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -31,22 +29,22 @@
 ---
 
 ## 📊 Statistiques GitHub
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=badi763&show_icons=true&theme=tokyonight)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badi763&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🐍 Animation Snake des commits
-
-[![Snake animation](https://github.com/badi763/badi763/blob/output/github-contribution-grid-snake.svg)](https://github.com/badi763)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/badi763/badi763/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/badi763/badi763/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/badi763/badi763/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 ## 👀 Vues sur mon profil
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=badi763.badi763)
+![](https://komarev.com/ghpvc/?username=badi763&color=blue&style=for-the-badge)
 
 ---
 
