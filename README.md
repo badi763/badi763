@@ -71,8 +71,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=badi763&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/badi763)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=badi763&theme=nord&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/badi763)
 </div>
 
 ---
