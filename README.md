@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut,+je+suis+Rayane+Badi!+;Développeur+Web+&+DJ+passionné;Bienvenue+sur+mon+GitHub!&font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=je+suis+Rayane+Badi!+;Développeur+Web+&+DJ+passionné;Bienvenue+sur+mon+GitHub!&font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
