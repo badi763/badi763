@@ -21,7 +21,7 @@
 ---
 ## 🎓 Recherche de stage
 
-> Je suis actuellement à la recherche d'un **stage en développement web Front-End**.  
+> Je suis actuellement à la recherche d'un **stage en développement web Full Stack**.  
 > Motivé, curieux et passionné par le code et la création d'interfaces modernes.  
 > N'hésite pas à me contacter ! 📩
 
