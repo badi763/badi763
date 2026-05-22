@@ -90,12 +90,3 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2" />
 
-## 👀 Vues sur mon profil
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=badi763&color=FFD700&style=for-the-badge&label=VISITEURS)
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:FFD700,100:000000&height=120&section=footer&fontColor=FFD700)
