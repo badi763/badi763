@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rayanebadi2007@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FFD700)](https://rayanebadi.fr)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FFD700?style=for-the-badge&logo=soundcloud&logoColor=black)](https://soundcloud.com/badi77)
-![Stage](https://img.shields.io/badge/🎓_Recherche_de_Stage-FFD700?style=for-the-badge&logoColor=black&color=FFD700&labelColor=000000)
+![Stage](https://img.shields.io/badge/🎓_Recherche_dalternance-FFD700?style=for-the-badge&logoColor=black&color=FFD700&labelColor=000000)
 
 </div>
 
@@ -19,7 +19,7 @@
 + Développeur Full-Stack (Front-End & Back-End)
 + En apprentissage de TypeScript et JavaScript avancé
 + Portfolio : rayanebadi.fr
-+ 🎓 Disponible pour un stage dès maintenant !
++ 🎓 Disponible pour une alternance dès maintenant !
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2" />
