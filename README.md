@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:FFD700,100:000000&height=200&section=header&text=Rayane%20Badi&fontSize=60&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=Développeur%20Full-Stack%20•%20En%20recherche%20de%20stage&descAlignY=55&descSize=18&descColor=FFD700)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:FFD700,100:000000&height=200&section=header&text=Rayane%20Badi&fontSize=60&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=Développeur%20Full-Stack%20•%20En%20recherche%20d'%20alternance&descAlignY=55&descSize=18&descColor=FFD700)
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+je+suis+Rayane+Badi!;Développeur+Full-Stack+Front+%26+Back+💻;En+recherche+d'+alternance+💼;Bienvenue+sur+mon+GitHub!&font=Fira+Code&size=22&duration=3000&color=FFD700&center=true&width=600&background=000000" />
 
