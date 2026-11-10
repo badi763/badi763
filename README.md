@@ -42,7 +42,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFD700)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700)
-
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=FFD700)
 </div>
 
 ### 🔧 Outils
