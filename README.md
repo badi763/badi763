@@ -53,10 +53,11 @@
    
 ![PhP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFD700)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700)
-![API Rest](https://img.shields.io/badge/API+Rest-000000?style=for-the-badge&logo=API+REST&logoColor=FFD700)
+![API Rest](https://img.shields.io/badge/APIRest-000000?style=for-the-badge&logo=APIREST&logoColor=FFD700)
 ![Asynchrone](https://img.shields.io/badge/Asynchrone-000000?style=for-the-badge&logo=Asynchrone&logoColor=FFD700)
 
  </div>
+ 
 ### 🔧 Outils
 <div align="center">
 
