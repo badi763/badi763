@@ -34,6 +34,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.jst&logoColor=FFD700)
+
 
 </div>
 
@@ -41,10 +43,20 @@
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFD700)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=FFD700)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=FFD700)
+
 </div>
 
+ ### API & Bases de données
+ <div align="center">
+   
+![PhP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFD700)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700)
+![API Rest](https://img.shields.io/badge/API+Rest-000000?style=for-the-badge&logo=API+REST&logoColor=FFD700)
+![Asynchrone](https://img.shields.io/badge/Asynchrone-000000?style=for-the-badge&logo=Asynchrone&logoColor=FFD700)
+
+ </div>
 ### 🔧 Outils
 <div align="center">
 
